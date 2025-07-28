@@ -24,7 +24,7 @@ cat \> network.log \<\< 'EOF'
 
 2024-01-15 10:33:30 192.168.1.102 DISCONNECT success
 
-EOF
+EOF 
 
 \# 3\. 접속 통계 파일 생성
 
